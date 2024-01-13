@@ -20,9 +20,10 @@ This a movie and tv show app that allows you to search for movies and tv shows a
 - GetX
 
 ## Screenshots
-
-![Screenshot 1](./assets/images/screenshots/1703673569994.png_adobe_express.png)
-![Screenshot 2](./assets/images/screenshots/1703673613093.png_adobe_express.png)
+<div align="center">
+<img src="./assets/images/screenshots/1703673569994.png_adobe_express.png" width="300" />
+<img src="./assets/images/screenshots/1703673613093.png_adobe_express.png" width="300" />
+</div>
 
 ## Run Locally
 
